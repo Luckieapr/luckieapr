@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="/programmer.gif"  />
+  <img height="600" src="/programmer.gif"  />
 </div>
 
 ###
