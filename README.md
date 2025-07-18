@@ -3,6 +3,15 @@
 ###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/luckie-aprieliyana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -11,8 +20,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 align="center">hey there 👋</h1>
 
@@ -25,7 +32,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="/programmer.gif"  />
+  <img height="500" src="/programmer.gif"  />
 </div>
 
 ###
@@ -61,5 +68,13 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/Luckieapr/https://github.com/Luckieapr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/Luckieapr/https://github.com/Luckieapr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/Luckieapr/https://github.com/Luckieapr/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
