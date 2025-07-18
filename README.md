@@ -3,28 +3,34 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/luckie-aprieliyana/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<br clear="both">
+
+<h3 align="center">👩‍💻 About Me<br>Hi, I'm Lucky!<br><br>Welcome to my GitHub profile! I'm a developer passionate about creating intuitive and useful web applications. My background in interactive bots gives me a unique perspective on problem-solving.<br><br>I believe in the power of clean code and user-centered design. I'm currently focused on the JavaScript ecosystem and REST APIs to build real-time services.<br><br>- 🚀 My featured project: gamerenjoyer.biz.id<br>- 💡 Interested in collaborating on open-source projects or innovative ideas.<br>- ⚡ Fun fact: Outside of coding, I enjoy swimming and playing badminton.<br><br>Let's connect!</h3>
 
 ###
 
 <div align="center">
-  <img height="500" src="/programmer.gif"  />
+  <img height="200" src="/programmer.gif"  />
 </div>
 
 ###
 
-<p align="left">I'm Luck from Semarang city<br><br>- 🔭 I’m working as Freelance<br>- 📚 I'm currently learning <br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Luck from Semarang city<br><br>- 🔭 I’m working as Freelance<br>- 📚 I'm currently learning <br>- ⚡ In my free time I make money</p>
 
 ###
 
@@ -32,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
