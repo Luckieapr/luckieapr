@@ -1,4 +1,4 @@
-<img align="left" height="300" src="/programmer.gif"  />
+<img align="left" height="300" src="/dance.gif"  />
 
 ###
 
@@ -18,7 +18,13 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<div align="center">
+  <img height="200" src="/programmer.gif"  />
+</div>
+
+###
+
+<p align="left">I'm Luck from Semarang city<br><br>- 🔭 I’m working as Freelance<br>- 📚 I'm currently learning <br>- ⚡ In my free time I ...</p>
 
 ###
 
